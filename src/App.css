@@ -1,0 +1,58 @@
+
+.form {
+  padding: 20px;
+  border-radius: 5px;
+  background: #ddd;
+  width: 400px;
+  margin: 20px auto;
+}
+.form input {
+  width: 96%;
+  margin-bottom: 10px;
+  padding: 8px;
+  outline: none;
+  border: none;
+}
+
+.form button {
+  background: #3a0808;
+  border: none;
+  font-size: 16px;
+  margin-right: 20px;
+  margin-top: 10px;
+  padding: 9px 20px;
+  color: #fff;cursor: pointer;
+}
+
+.box button {
+  background: #626060;
+  border: none;
+  color: #fff;
+  font-size: 14px;
+  padding: 8px 13px;margin-right: 20px;
+  cursor: pointer;
+}
+.itemList p {
+  margin:0px 20px 0px 0px;
+}
+.itemList {
+  display: flex;
+  width: 50%;
+  align-items: center;
+}
+.box {
+  display: flex;
+  background: #ddd;
+  justify-content: space-between;
+  font-size: 20px;
+  line-height: 20px;padding: 7px;margin-bottom: 10px;
+}
+.completeData {
+  width: 50%;
+  padding: 50px;
+}
+.List_item {
+  background: #eee;
+  padding: 40px;display: flex;
+}
+
